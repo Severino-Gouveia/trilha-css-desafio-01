@@ -29,6 +29,7 @@ section {
   height: 600px;
   padding-top: 60px;
   border-bottom: 1px solid #33A8DB80;
+  
 }
 
 .banner .banner-content {
@@ -123,8 +124,10 @@ section {
   font-weight: 900;
   font-size: 2.5rem;
   text-transform: lowercase;
-  max-width: 250px;
+  max-width: 350px;
   text-shadow: 3px 2px #33A8DB;
+  text-align:center;
+  
 }
 
 #professional-challenges {
